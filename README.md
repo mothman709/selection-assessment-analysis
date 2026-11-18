@@ -2,8 +2,6 @@
 
 A retail clothing company hired sales associates through unstructured interviews and wanted a process based on evidence. It had written 15 assessment items and given them, along with a cognitive ability test, to 225 current sales associates. This analysis decides which of those measures are worth using to hire, and whether using them would disadvantage any group.
 
-This was a graduate I/O psychology case assignment at the University of Waterloo. The company and data come from the case. I wrote the analysis and the report.
-
 Case study with the full write up: https://othmanjournal.com/portfolio/selection-assessment.html
 
 ## What I found
@@ -37,7 +35,7 @@ The race ratio is the main limit on this recommendation. The report says so and 
 
 ## Data
 
-The data belongs to the course case, so it is not included. To run the code, put your own copy of the file in place and change `&datafile` at the top of the SAS file. The file needs these columns.
+The data is not included. To run the code, put your own copy of the file in place and change `&datafile` at the top of the SAS file. The file needs these columns.
 
 | Column | Meaning |
 |---|---|
