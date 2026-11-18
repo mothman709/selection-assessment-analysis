@@ -7,8 +7,9 @@
   whether using them would disadvantage any group, and how to combine them.
 
   Data
-  The data file is not included in this repository. Put your own copy at the path in &datafile below. It needs these
-  columns (see the README for what each one means):
+  The data file is WorkingData (3).csv in this repository. Point &datafile
+  below at its location. It has these columns (see the README for what each
+  one means):
   Race, cog, r1, r2, Inf, it1-it15, sex
 ==========================================================================*/
 
