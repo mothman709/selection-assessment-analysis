@@ -4,7 +4,7 @@ A retail clothing company hired sales associates through unstructured interviews
 
 Case study with the full write up: https://othmanjournal.com/portfolio/selection-assessment.html
 
-## What I found
+## What we found
 
 | Question | Answer |
 |---|---|
