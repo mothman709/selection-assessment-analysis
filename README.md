@@ -35,7 +35,7 @@ The race ratio is the main limit on this recommendation. The report says so and 
 
 ## Data
 
-The data is not included. To run the code, put your own copy of the file in place and change `&datafile` at the top of the SAS file. The file needs these columns.
+The data file is `WorkingData (3).csv` in this repository. To run the code, change `&datafile` at the top of the SAS file to its location. The file has these columns.
 
 | Column | Meaning |
 |---|---|
